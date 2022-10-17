@@ -1,21 +1,13 @@
 # [ABOUT](https://github.com/dialogware/roadmap/blob/main/DOCS/ABOUT.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/ABOUT.md)
 
-## 3 customers
-
-PRODUCENT, Development
-PROVIDER, Hosting
-CLIENT, businness
-
-
-## Roadmap
-
-## offer description
-newsletter:
-+ per week
-+ później konto systemu
+## 2.
+Marketplace z punktami, bez płatności
+wszystkie konta ic ały ekosystem jest wdrażany na nowo, aby zacząć po 3 próbach
+Klienci dostają jednorazowe tokeny, które działają tylko 1 miesiąc
+W celu odzyskania podają email, który jest weryfikowany czy wcześniej został podany
 
 
-## Account: TRY
+Account: TRY
 + demo check for 1 dzień 1 apka 1 slot, potem się wyłącza i trzeba na nowo uruchamiać
 + POINTS: 1/month nie przchodzą na kolejny miesiąc
 + Marketplace, każda apka 5EUR
@@ -23,7 +15,9 @@ newsletter:
 + przedłużenie na rok za 5EUR/slot
 
 
-## Account: BIZ
+
+## 3.
+Account: BIZ
 + PRICE: 5EUR/msc
 + POINTS: 3, ważne 1 miesiąc
 + DURATION: lifetime nawet po nieprzedłużeniu można używać apki, każdego miesiąca dostajesz 3 punkty na zakup apek
@@ -34,7 +28,8 @@ Account: BIZ+
 + płać x3 = 15EUR i dostaniesz 5 razy tyle
 + za free jak kupujesz 10 apek na miesiąc
 
-## ACCOUNT: DEV - KREATOR - PRODUCENT
+## 4.
+ACCOUNT: DEV - KREATOR - PRODUCENT
 + PRICE: 5EUR/msc
 + POINTS: punkty zbierane za wyprodukowanie i sprzedaż na zakup lub wypłata
 + DURATION: lifetime
@@ -47,7 +42,9 @@ ACCOUNT DEV+
 + płać x3 = 15EUR i dostaniesz 5 razy tyle
 + za free, jak sprzedaż powyżej 10 apek/msc
 
-## Account BIZ-INVESTOR:
+## 5.
+
+Account BIZ-INWESTOR:
 + PRICE: 100EUR/rok
 + POINTS: 100 punktów na zakup apek
 + DURATION: 24M

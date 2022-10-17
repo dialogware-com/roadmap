@@ -1,3 +1,5 @@
+
+
 [![DIALOGWARE](http://logo.dialogware.com/dialogware-2lines.png)](http://roadmap.dialogware.com/)
 
 # [MENU](https://github.com/dialogware/roadmap/blob/main/DOCS/MENU.md)  [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/MENU.md)
@@ -22,33 +24,25 @@ Another projects:
 
 [WAPKA](https://github.com/wapka-pl)
 
+
 # [ABOUT](https://github.com/dialogware/roadmap/blob/main/DOCS/ABOUT.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/ABOUT.md)
 
-## Grupa docelowa
+## 3 customers
 
-3 typy klientów:
 PRODUCENT, Development
 PROVIDER, Hosting
 CLIENT, businness
 
 
-
 ## Roadmap
 
-## 1.
-offer description
+## offer description
 newsletter:
 + per week
 + później konto systemu
 
-## 2.
-Marketplace z punktami, bez płatności
-wszystkie konta ic ały ekosystem jest wdrażany na nowo, aby zacząć po 3 próbach
-Klienci dostają jednorazowe tokeny, które działają tylko 1 miesiąc
-W celu odzyskania podają email, który jest weryfikowany czy wcześniej został podany
 
-
-Account: TRY
+## Account: TRY
 + demo check for 1 dzień 1 apka 1 slot, potem się wyłącza i trzeba na nowo uruchamiać
 + POINTS: 1/month nie przchodzą na kolejny miesiąc
 + Marketplace, każda apka 5EUR
@@ -56,9 +50,7 @@ Account: TRY
 + przedłużenie na rok za 5EUR/slot
 
 
-
-## 3.
-Account: BIZ
+## Account: BIZ
 + PRICE: 5EUR/msc
 + POINTS: 3, ważne 1 miesiąc
 + DURATION: lifetime nawet po nieprzedłużeniu można używać apki, każdego miesiąca dostajesz 3 punkty na zakup apek
@@ -69,8 +61,7 @@ Account: BIZ+
 + płać x3 = 15EUR i dostaniesz 5 razy tyle
 + za free jak kupujesz 10 apek na miesiąc
 
-## 4.
-ACCOUNT: DEV - KREATOR - PRODUCENT
+## ACCOUNT: DEV - KREATOR - PRODUCENT
 + PRICE: 5EUR/msc
 + POINTS: punkty zbierane za wyprodukowanie i sprzedaż na zakup lub wypłata
 + DURATION: lifetime
@@ -83,9 +74,7 @@ ACCOUNT DEV+
 + płać x3 = 15EUR i dostaniesz 5 razy tyle
 + za free, jak sprzedaż powyżej 10 apek/msc
 
-## 5.
-
-Account BIZ-INWESTOR:
+## Account BIZ-INVESTOR:
 + PRICE: 100EUR/rok
 + POINTS: 100 punktów na zakup apek
 + DURATION: 24M
@@ -93,8 +82,18 @@ Account BIZ-INWESTOR:
 + Slots: 10 Apps
 ## [COMPETITORS](https://github.com/dialogware/roadmap/blob/main/DOCS/COMPETITORS.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/COMPETITORS.md)
 
-6WIND, Arista Networks, Big Switch Networks, Cisco, Citrix, Dell Technologies,
-EMC, HP, IBM, Microsoft, VMware
++ 6WIND
++ Arista Networks 
++ Big Switch Networks 
++ Cisco
++ Citrix 
++ Dell Technologies
++ EMC
++ HP 
++ IBM 
++ Microsoft 
++ VMware
+
 ## [HASHTAGS](https://github.com/dialogware/www/blob/main/DOCS/TAGS.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/www/edit/main/DOCS/TAGS.md)
 
 + text2sofwtare
@@ -108,6 +107,7 @@ EMC, HP, IBM, Microsoft, VMware
 + Software-defined Data Center (SDDC)
 + Software-defined Storage (SDS)
 + Software-defined Networking (SDN)
+
 
 ---
 
