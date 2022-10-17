@@ -30,9 +30,6 @@ newsletter:
 + Marketplace: 3 App Free
 + Slot: for 3 Apps / month
 
-Account: BIZ+
-+ płać x3 = 15EUR i dostaniesz 5 razy tyle
-+ za free jak kupujesz 10 apek na miesiąc
 
 ## ACCOUNT: DEV - KREATOR - PRODUCENT
 + PRICE: 5EUR/msc
@@ -41,11 +38,7 @@ Account: BIZ+
 + Marketplace: 3 Apps Free
 + Slots: 3 Apps
 
-Punkty mogą być wymieniane na lepsze sloty lub lepsze apki
 
-ACCOUNT DEV+
-+ płać x3 = 15EUR i dostaniesz 5 razy tyle
-+ za free, jak sprzedaż powyżej 10 apek/msc
 
 ## Account BIZ-INVESTOR:
 + PRICE: 100EUR/rok
