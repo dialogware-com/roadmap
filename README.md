@@ -1,4 +1,3 @@
-
 [![DIALOGWARE](http://logo.dialogware.com/dialogware-2lines.png)](http://roadmap.dialogware.com/)
 
 # [MENU](https://github.com/dialogware/roadmap/blob/main/DOCS/MENU.md)  [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/MENU.md)
@@ -15,7 +14,6 @@ Our projects:
 + [pricing.dialogware.com](http://pricing.dialogware.com/)
 
 
-
 Another projects:
 
 [appFunc](https://github.com/orgs/appfunc/repositories)
@@ -23,7 +21,6 @@ Another projects:
 [OneDay.Run](https://github.com/orgs/oneday-run/repositories)
 
 [WAPKA](https://github.com/wapka-pl)
-
 
 # [ABOUT](https://github.com/dialogware/roadmap/blob/main/DOCS/ABOUT.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/ABOUT.md)
 
@@ -33,6 +30,7 @@ Another projects:
 PRODUCENT, Development
 PROVIDER, Hosting
 CLIENT, businness
+
 
 
 ## Roadmap

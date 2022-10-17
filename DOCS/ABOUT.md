@@ -1,16 +1,12 @@
 # [ABOUT](https://github.com/dialogware/roadmap/blob/main/DOCS/ABOUT.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/ABOUT.md)
 
-# [roadmap](http://roadmap.dialogware.com)
-
-+ [roadmap | roadmap.dialogware.com](http://roadmap.dialogware.com/)
-+ [pricing | pricing.dialogware.com](http://pricing.dialogware.com/)
-
 ## Grupa docelowa
 
 3 typy klientów:
 PRODUCENT, Development
 PROVIDER, Hosting
 CLIENT, businness
+
 
 
 ## Roadmap
