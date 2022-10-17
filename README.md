@@ -7,6 +7,12 @@
 
 + [DIALOGWARE TASK'S](https://github.com/orgs/dialogware/projects/1/views/1)
 
+Our projects:
+
++ [www.dialogware.com](http://www.dialogware.com/)
++ [docs.dialogware.com](http://docs.dialogware.com/)
++ [roadmap.dialogware.com](http://roadmap.dialogware.com/)
++ [pricing.dialogware.com](http://pricing.dialogware.com/)
 
 
 
@@ -20,11 +26,6 @@ Another projects:
 
 
 # [ABOUT](https://github.com/dialogware/roadmap/blob/main/DOCS/ABOUT.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/ABOUT.md)
-
-# [roadmap](http://roadmap.dialogware.com)
-
-+ [roadmap | roadmap.dialogware.com](http://roadmap.dialogware.com/)
-+ [pricing | pricing.dialogware.com](http://pricing.dialogware.com/)
 
 ## Grupa docelowa
 
