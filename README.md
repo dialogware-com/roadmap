@@ -177,11 +177,9 @@ newsletter:
 
 ## Another projects:
 
-[appFunc](https://github.com/orgs/appfunc/repositories)
-
-[OneDay.Run](https://github.com/orgs/oneday-run/repositories)
-
-[WAPKA](https://github.com/wapka-pl)
++ [appFunc](https://github.com/orgs/appfunc/repositories)
++ [OneDay.Run](https://github.com/orgs/oneday-run/repositories)
++ [WAPKA](https://github.com/wapka-pl)
 
 
 ---
