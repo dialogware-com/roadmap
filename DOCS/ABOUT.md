@@ -8,7 +8,12 @@ CLIENT, businness
 
 
 ## Roadmap
-
++ [dialogware/roadmap-generator: roadmap from github tickets](https://github.com/dialogware/roadmap-generator)
+```bash
+cd ../roadmap-generator
+./build.sh
+cd ../roadmap
+```
 ## offer description
 newsletter:
 + per week
