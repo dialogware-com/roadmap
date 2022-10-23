@@ -14,8 +14,4 @@ cd ../roadmap-generator
 ./build.sh
 cd ../roadmap
 ```
-## offer description
-newsletter:
-+ per week
-+ później konto systemu
 
