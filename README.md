@@ -187,7 +187,3 @@ newsletter:
 ---
 
 + [dialogware/roadmap](https://github.com/dialogware/roadmap)
-
----
-
-+ [dialogware/roadmap](https://github.com/dialogware/roadmap)

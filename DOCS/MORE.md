@@ -15,8 +15,3 @@
 [OneDay.Run](https://github.com/orgs/oneday-run/repositories)
 
 [WAPKA](https://github.com/wapka-pl)
-
-
----
-
-+ [dialogware/roadmap](https://github.com/dialogware/roadmap)
