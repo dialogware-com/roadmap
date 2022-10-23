@@ -102,21 +102,21 @@ newsletter:
 "Be the first to learn about ways you can pre-order your DIALOGWARE Pendant. Join the waitlist today!"
 
 
-## [HASHTAGS](https://github.com/dialogware/www/blob/main/DOCS/TAGS.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/www/edit/main/DOCS/TAGS.md)
+## [HASHTAGS](https://github.com/dialogware/docs/blob/main/DOCS/TAGS.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/docs/edit/main/DOCS/TAGS.md)
 
 + text2sofwtare
-+ low-code 
++ low-code
 + no-code
 + API
 + library
-+ framework 
++ framework
 + scripts
 + language
 + Software-defined Data Center (SDDC)
 + Software-defined Storage (SDS)
 + Software-defined Networking (SDN)
 
-# [MORE](https://github.com/dialogware/roadmap/blob/main/DOCS/MORE.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/MORE.md)
+# [MORE](https://github.com/dialogware/docs/blob/main/DOCS/MORE.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/docs/edit/main/DOCS/MORE.md)
 
 ## Dialogware projects:
 
