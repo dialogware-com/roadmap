@@ -1,7 +1,6 @@
 ./DOCS/MENU.md
 ./DOCS/ABOUT.md
 ./DOCS/ROADMAP.md
-./TODO/17.10.2022.md
 ../docs/DOCS/TAGS.md
 ../docs/DOCS/MORE.md
 ./DOCS/FOOT.md

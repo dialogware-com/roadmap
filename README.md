@@ -8,7 +8,7 @@
 
 + [DIALOGWARE TASK'S](https://github.com/orgs/dialogware/projects/1/views/1)
 
-
++ [todo.dialogware.com | todo](https://todo.dialogware.com/)
 # [ABOUT](https://github.com/dialogware/roadmap/blob/main/DOCS/ABOUT.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/ABOUT.md)
 
 
@@ -75,31 +75,6 @@ This document describes the current status and the upcoming milestones of the di
 | :---: | :--- | --- | --- |
 
 
-
-
-## # [TODO](https://github.com/dialogware/roadmap/blob/main/TODO/17.10.2022.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/TODO/17.10.2022.md)
-
-## structure
-+ landing page based on Wordpress
-+ Submitted sitemap to Google
-+ Technical SEO. 
-
-## Info about project:
-+ The Problem
-+ Our Solution
-
-## offer description
-
-newsletter:
-+ per week
-+ później konto systemu
-
-## Features
-+ Join the waitlist
-+ newsletter
-+ channel - subscribe
-
-"Be the first to learn about ways you can pre-order your DIALOGWARE Pendant. Join the waitlist today!"
 
 
 ## [HASHTAGS](https://github.com/dialogware/docs/blob/main/DOCS/TAGS.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/docs/edit/main/DOCS/TAGS.md)
