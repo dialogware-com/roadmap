@@ -1,5 +1,10 @@
 ./DOCS/MENU.md
 ./DOCS/ABOUT.md
+./OFFER/1.md
+./OFFER/2.md
+./OFFER/3.md
+./OFFER/4.md
+./TODO/17.10.2022.md
 ./DOCS/COMPETITORS.md
 ./DOCS/TAGS.md
 ./DOCS/FOOT.md
