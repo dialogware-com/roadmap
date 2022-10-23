@@ -1,5 +1,6 @@
 ./DOCS/MENU.md
 ./DOCS/ABOUT.md
+./DOCS/GENERATE.md
 ./DOCS/ROADMAP.md
 ../docs/DOCS/TAGS.md
 ../docs/DOCS/MORE.md
