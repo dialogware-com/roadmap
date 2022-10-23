@@ -41,6 +41,7 @@ newsletter:
 + per week
 + później konto systemu
 
+
 # dialogware - Roadmap
 
 This document describes the current status and the upcoming milestones of the dialogware project.

@@ -1,5 +1,6 @@
 ./DOCS/MENU.md
 ./DOCS/ABOUT.md
+./DOCS/ROADMAP.md
 ./OFFER/1.md
 ./OFFER/2.md
 ./OFFER/3.md
