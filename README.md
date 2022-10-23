@@ -41,10 +41,6 @@ cd ../roadmap-generator
 ./build.sh
 cd ../roadmap
 ```
-## offer description
-newsletter:
-+ per week
-+ później konto systemu
 
 
 # dialogware - Roadmap
@@ -139,6 +135,11 @@ This document describes the current status and the upcoming milestones of the di
 + The Problem
 + Our Solution
 
+## offer description
+
+newsletter:
++ per week
++ później konto systemu
 
 ## Features
 + Join the waitlist
