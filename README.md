@@ -8,34 +8,14 @@
 
 + [DIALOGWARE TASK'S](https://github.com/orgs/dialogware/projects/1/views/1)
 
-Our projects:
-
-+ [www.dialogware.com](http://www.dialogware.com/)
-+ [docs.dialogware.com](http://docs.dialogware.com/)
-+ [roadmap.dialogware.com](http://roadmap.dialogware.com/)
-+ [pricing.dialogware.com](http://pricing.dialogware.com/)
-
-
-Another projects:
-
-[appFunc](https://github.com/orgs/appfunc/repositories)
-
-[OneDay.Run](https://github.com/orgs/oneday-run/repositories)
-
-[WAPKA](https://github.com/wapka-pl)
-
 
 # [ABOUT](https://github.com/dialogware/roadmap/blob/main/DOCS/ABOUT.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/ABOUT.md)
 
-## 3 customers
 
-PRODUCENT, Development
-PROVIDER, Hosting
-CLIENT, businness
+## Generate Roadmap
 
-
-## Roadmap
 + [dialogware/roadmap-generator: roadmap from github tickets](https://github.com/dialogware/roadmap-generator)
+
 ```bash
 cd ../roadmap-generator
 ./build.sh
@@ -97,6 +77,14 @@ This document describes the current status and the upcoming milestones of the di
 
 
 
+# [OFFER](https://github.com/dialogware/roadmap/blob/main/DOCS/OFFER.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/OFFER.md)
+
+
+## 3 customers
+
+PRODUCENT, Development
+PROVIDER, Hosting
+CLIENT, businness
 ## Account: TRY
 + demo check for 1 dzień 1 apka 1 slot, potem się wyłącza i trzeba na nowo uruchamiać
 + POINTS: 1/month nie przchodzą na kolejny miesiąc
@@ -177,6 +165,27 @@ newsletter:
 + Software-defined Storage (SDS)
 + Software-defined Networking (SDN)
 
+
+## Dialogware projects:
+
++ [Website - www.dialogware.com](http://www.dialogware.com/)
++ [Documentation - docs.dialogware.com](http://docs.dialogware.com/)
++ [Roadmap - roadmap.dialogware.com](http://roadmap.dialogware.com/)
++ [Pricing - pricing.dialogware.com](http://pricing.dialogware.com/)
+
+
+## Another projects:
+
+[appFunc](https://github.com/orgs/appfunc/repositories)
+
+[OneDay.Run](https://github.com/orgs/oneday-run/repositories)
+
+[WAPKA](https://github.com/wapka-pl)
+
+
+---
+
++ [dialogware/roadmap](https://github.com/dialogware/roadmap)
 
 ---
 

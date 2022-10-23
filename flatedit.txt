@@ -1,6 +1,7 @@
 ./DOCS/MENU.md
 ./DOCS/ABOUT.md
 ./DOCS/ROADMAP.md
+./DOCS/OFFER.md
 ./OFFER/1.md
 ./OFFER/2.md
 ./OFFER/3.md
@@ -8,4 +9,5 @@
 ./TODO/17.10.2022.md
 ./DOCS/COMPETITORS.md
 ./DOCS/TAGS.md
+./DOCS/FOOT_MENU.md
 ./DOCS/FOOT.md
